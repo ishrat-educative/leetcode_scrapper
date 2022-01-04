@@ -1,0 +1,18 @@
+{
+  "name": "leetcode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "LeetcodeCompany.js",
+  "dependencies": {
+    "excel4node": "^1.7.2",
+    "exceljs": "^4.3.0",
+    "selenium": "^2.20.0",
+    "selenium-webdriver": "^4.0.0-rc-1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "]",
+  "license": "ISC"
+}
